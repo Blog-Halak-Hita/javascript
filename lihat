@@ -1,1 +1,4 @@
-Melihat Sumber kode dari api berkas
+/* Melihat Sumber kode dari api berkas */
+/* Memantau kode API dari kode dibawah ini */
+
+curl-i  https://api.github.com/users/octocat/orgsHTTP/1.1 200 OKServer: nginxDate: Fri, 12 Oct 2012 23:33:14 GMTContent-Type: application/json; charset=utf-8Connection: keep-aliveStatus: 200 OKETag: "a00049ba79152d03380c34652f2cb612"X-GitHub-Media-Type: github.v3X-RateLimit-Limit: 5000X-RateLimit-Remaining: 4987X-RateLimit-Reset: 1350085394Content-Length: 5Cache-Control: max-age=0, private, must-revalidateX-Content-Type-Options: nosniff
